@@ -39,7 +39,7 @@ An analytical project focused on understanding sales patterns and forecasting de
 
 ## Explore
 
-- **Live Website:** [(https://nayim2003.github.io/My-Portfolio-Website/)](https://nayim2003.github.io/nayim2003/)
+- **Live Website:** (https://nayim2003.github.io/nayim2003/)
 - **GitHub:** https://github.com/nayim2003
 - **LinkedIn:** https://linkedin.com/in/nayim2023
 - **Email:** mdnayimhowlader66@gmail.com
